@@ -6,6 +6,7 @@ from chatterbot.trainers import ListTrainer # import for training chatbots on te
 ############ Converstion of Chatbot #################
 #### convesations that the Cjat bot uses to make ####
 #####################################################
+chatbot = ChatBot("RON") # test name for chatbot
 
 # test conversation [list]  to test and run with user response
 conversation = [
